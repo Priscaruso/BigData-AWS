@@ -1,8 +1,10 @@
-# DIO-LiveCoding-AWS-BigData
-Repositório de cógido do Dio Live Coding com AWS EMR e Python
-Neste repositório há os arquivos de configuração e execução de análise de dados.
+# PROJETO CONSTRUÇÃO DE UM ECOSSISTEMA DE BIG DATA NA NUVEM AWS
 
-## Instruções
+Projeto desenvolvido durante o Bootcamp Cognizant Cloud Data Engineer na plataforma Digital Innovation One 
+com o objetivo de extrair e contabilizar palavras de um livro no formato de texto plano por meio de um algoritmo python.
+O algoritmo foi desenvolvido utilizando a biblioteca MRJOB para criar mapreduce jobs e .
+
+## Etapas
 
 * Acessar S3: https://s3.console.aws.amazon.com/s3/ 
   * Criar estrutura de data lake : _dio-live-datalake_
