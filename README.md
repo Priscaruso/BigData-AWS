@@ -22,7 +22,7 @@ O EMR é responsável pelo processamento dos dados do livro fornecido (dados de 
 * Obter Id e chave secreta AWS para configurar o MrJob
   
 * Criar um ambiente virtual python em uma máquina virtual linux
-   * Criar um ambiente virtual python: _virtualenv --python=python3.8 venv_diolive_
+   * Criar um ambiente virtual python
 
 * No ambiente virtual python: 
    * Criar algoritmo de análise de palavras dio-aws-mostcommon-word.py no VS CODE
