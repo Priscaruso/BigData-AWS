@@ -12,9 +12,9 @@ O EMR é responsável pelo processamento dos dados do livro fornecido (dados de 
 
 * Criar uma estrutura de datalake (bucket) no serviço de armazenamento de dados S3
     * Dentro do bucket, criar as estruturas de pasta abaixo:
-        _data_
-        _output_
-        _temp_
+      * _data_ 
+      * _output_
+      * _temp_
  
 * Criar chave SSH pelo console do EC2 e fazer download do arquivo .pem
     * As chaves SSH são para permitir o acesso remoto da minha máquina ao sistema da AWS
