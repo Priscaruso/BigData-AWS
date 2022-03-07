@@ -1,7 +1,7 @@
 # PROJETO CONSTRUÇÃO DE UM ECOSSISTEMA DE BIG DATA NA NUVEM AWS
 
 Projeto desenvolvido durante o Bootcamp Cognizant Cloud Data Engineer na plataforma Digital Innovation One 
-com o objetivo de extrair e contabilizar palavras de um livro no formato de texto plano, exibindo a palavra de maior frequência, por meio de um algoritmo python.
+com o objetivo de extrair e contabilizar palavras de um livro no formato de texto plano (sherlock.txt), exibindo a palavra de maior frequência, por meio de um algoritmo python.
 
 O algoritmo foi desenvolvido utilizando a biblioteca MRJOB e MRSTEPS para criar mapreduce jobs. Esse código é responsável por criar o cluster no 
 serviço Elastic MapReduce (EMR), utilizando o conceito de infraestrutura como código, sem a necessidade de criar manualmente o cluster pelo console da AWS.
